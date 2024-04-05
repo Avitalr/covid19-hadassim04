@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\avita\Downloads\twiter\twiter\main.cpp(18,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\avita\Downloads\twiter\twiter\main.cpp(25,35): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  twiter.vcxproj -> C:\Users\avita\Downloads\twiter\x64\Debug\twiter.exe
